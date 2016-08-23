@@ -1,0 +1,5 @@
+<devices>
+  <serialForEveryone portname="COM53" baudrate="115200" parity="Even" stopbits="One" />
+  <kk portname="com4" baudrate="115200" parity="Even" stopbits="1" />
+  <pmac-ajnc portname="COM53" baudrate="115200" parity="None" stopbits="One" />
+</devices>
